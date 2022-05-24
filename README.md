@@ -1,4 +1,4 @@
 # NSS_Analytics_Jumpstart
-### This repository is comprised of the data files and the Jupyter Notebooks I used to perform analysis in for a month-long Analytics Jumpstart class at Nashville Software School.
+### This repository is comprised of the data files and the Jupyter Notebooks I used to perform my analyses for a month-long Analytics Jumpstart class at Nashville Software School.
 #### The "Jumpstart Analysis" notebook is the main notebook I used to conduct an ongoing analysis as I progressed through the class. I used this ongoing iPython notebook to answer several questions and gain insights from the "police_calls_2018.csv", "hubNashville_2018.csv", and "metro_survey.db" data sources. You can see the full list of questions I was able to answer through my analysis on the "Analysis Guide.pdf" file.
 #### I used the "Group Project" notebook to conduct an analysis for my portion of our group project, which you will see the presentation slides for in the "NSS Final Project" pdf.
